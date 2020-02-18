@@ -39,6 +39,7 @@ I spend 1 year to write the game engine at the last year of my college. And i pu
 
 ## gfx engine
 - general, immediate rendering mode, stateless, multi-threading, cross-platform gfx interface
+- cross API (D3D11, D3D12, Vulkan,,) 
 
 ## Rendering engine
 - programmable material system
