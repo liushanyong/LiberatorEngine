@@ -37,9 +37,10 @@ I spend 1 year to write the game engine at the last year of my college. And i pu
 - almost everything is hot-loadable
 - fully multi-threading schedule
 
+## gfx engine
+- general, immediate rendering mode, stateless, cross platform gfx interface
+
 ## Rendering engine
-- hlsl
-- high performance D3D11 gfx
 - programmable material system
 - render pipeline blueprint system
 - millions of objects on screen
