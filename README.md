@@ -38,7 +38,7 @@ I spend 1 year to write the game engine at the last year of my college. And i pu
 - fully multi-threading schedule
 
 ## gfx engine
-- general, immediate rendering mode, stateless, multi-threading, cross-platform gfx interface
+- general, cross-platform, stateless, multi-threading, immediate rendering mode gfx interface
 - cross API (D3D11, D3D12, Vulkan,,) 
 
 ## Rendering engine
