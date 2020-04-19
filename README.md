@@ -66,6 +66,7 @@ I spend 1 year to write the game engine at the last year of my college. And i pu
 
 ## Global illumination engine
 - PBR BXDF
+- GTAO
 - caustic effect
 - soft indirect shadow
 - IBL
