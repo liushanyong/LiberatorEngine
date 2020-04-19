@@ -69,9 +69,10 @@ I spend 1 year to write the game engine at the last year of my college. And i pu
 - PBR BXDF
 - GTAO, GTSO, VXAO
 - screen space reflection
+- IBL
+- screen space raytracing
 - caustic effect
 - soft indirect shadow
-- IBL
 - real time irradiance volume
 - handemade RTX
 - "realtime" pathtracing preview scene
