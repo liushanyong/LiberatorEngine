@@ -50,6 +50,7 @@ I spend 1 year to write the game engine at the last year of my college. And i pu
 ## Graphics
 - decals
 - particle effect
+- temporal AA
 - cascade shadow
 - subsurface scattering
 - SSAO
@@ -67,6 +68,7 @@ I spend 1 year to write the game engine at the last year of my college. And i pu
 ## Global illumination engine
 - PBR BXDF
 - GTAO, GTSO, VXAO
+- screen space reflection
 - caustic effect
 - soft indirect shadow
 - IBL
